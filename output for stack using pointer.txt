@@ -1,0 +1,56 @@
+Enter Stack Size :2
+
+
+tSTACK PRIMITIVE OPERATIONS
+1.PUSH
+2.POP
+3.DISPLAY
+4.QUIT
+
+Enter your option : 1
+
+Enter the element into stack:60
+
+
+tSTACK PRIMITIVE OPERATIONS
+1.PUSH
+2.POP
+3.DISPLAY
+4.QUIT
+
+Enter your option : 1
+
+Enter the element into stack:34
+
+
+tSTACK PRIMITIVE OPERATIONS
+1.PUSH
+2.POP
+3.DISPLAY
+4.QUIT
+
+Enter your option : 1
+
+Enter the element into stack:12
+
+Stack overflow(i.e., stack full).
+
+tSTACK PRIMITIVE OPERATIONS
+1.PUSH
+2.POP
+3.DISPLAY
+4.QUIT
+
+Enter your option : 3
+
+The current stack elements are:
+34
+60
+
+tSTACK PRIMITIVE OPERATIONS
+1.PUSH
+2.POP
+3.DISPLAY
+4.QUIT
+
+Enter your option : 
