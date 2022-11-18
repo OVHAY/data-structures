@@ -10,12 +10,12 @@ struct stack {
    int top;
 };
  
-// Initializing the stack(i.e., top=-1)
+
 void init_stk(struct stack *st) {
    st->top = -1;
 }
  
-// Entering the elements into stack
+
 void push(struct stack *st, int num) {
    if (st->top == size - 1) {
       printf("\nStack overflow(i.e., stack full).");
@@ -25,7 +25,7 @@ void push(struct stack *st, int num) {
    st->arr[st->top] = num;
 }
  
-//Deleting an element from the stack.
+
 int pop(struct stack *st) {
    int num;
    if (st->top == -1) {
