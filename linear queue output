@@ -1,0 +1,221 @@
+/tmp/l7DUxx98iW.o
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 1
+Enter the element
+1
+Value inserted 
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 1
+Enter the element
+2
+Value inserted 
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 2
+value deleted 
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 2
+value deleted 
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 1
+Enter the element
+5
+Value inserted 
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 1
+Enter the element
+8
+Value inserted 
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 3
+printing values .....
+
+5
+
+8
+
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 1
+Enter the element
+8
+Value inserted 
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 1
+Enter the element
+5
+Value inserted 
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 1
+Enter the element
+9
+Value inserted 
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 1
+Enter the element
+98
+OVERFLOW
+
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 3
+printing values .....
+
+5
+
+8
+
+8
+
+5
+
+9
+
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 2
+value deleted 
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 1
+Enter the element
+6
+OVERFLOW
+
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 3
+printing values .....
+
+8
+
+8
+
+5
+
+9
+
+----------------------------Main Menu----------------------------
+
+=================================================================
+choose a option
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice : 
